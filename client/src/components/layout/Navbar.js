@@ -23,7 +23,7 @@ const Navbar = () => {
                     </Link>
                     </li>
                     <li>
-                    <Link to="/">
+                    <Link to="/login">
                         <a href="!#">Login</a>
                     </Link>
                     </li>

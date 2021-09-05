@@ -28,6 +28,9 @@ const SignUp = () => {
                                 <i class="fas fa-lock"></i>
                                 <input placeholder="Confirm password" name="email"/>
                             </div>
+                            <div className="sign-up-form-group btn">
+                                <button type="submit">SignUp</button>
+                            </div>
                         </form>
                     </div>
                 </div>

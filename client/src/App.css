@@ -122,6 +122,25 @@ ul{
   padding: 15px 5px;
 }
 
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn button{
+  background-color:rgb(45, 28, 119); 
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: all ease-in-out 0.5s;
+}
+
+.btn button:hover{
+  background-color:rgb(74, 42, 219) ;
+}
+
 ::placeholder{
   color: rgba(255, 255, 255, 0.76);
   font-size: 16px;
